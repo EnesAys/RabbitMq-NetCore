@@ -11,12 +11,13 @@ C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.9\sbin\rabbitmq-plugins.bat
 
 restart RabbitMq Service and check http://localhost:15672/ 
 default port 15672 deafult username and password for rabbitMQ dashboard is "guest"
-https://github.com/EnesAys/RabbitMq-NetCore/blob/master/rabbitMQ-Dashboard.JPG
+
+![RabbitMQ Dashboard](https://github.com/EnesAys/RabbitMq-NetCore/blob/master/rabbitMQ-Dashboard.JPG)
 
 For .Net Core producer and consumer add packages via Nuget or package manager console
 
 Install-package Newtonsoft.Json
 Install-package RabbitMQ.Client
 
-https://github.com/EnesAys/RabbitMq-NetCore/blob/master/rabbitMQ.gif
+![.Net Core Produces-Consumer](https://github.com/EnesAys/RabbitMq-NetCore/blob/master/rabbitMQ.gif)
 
