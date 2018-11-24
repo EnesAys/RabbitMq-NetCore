@@ -26,3 +26,8 @@ Install-package RabbitMQ.Client
 
 ![.Net Core Produces-Consumer](https://github.com/EnesAys/RabbitMq-NetCore/blob/master/rabbitMQ.gif)
 
+
+Sources
+http://www.borakasmer.com/rabbitmq-nedir/
+https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
+https://www.rabbitmq.com/documentation.html
