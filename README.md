@@ -28,6 +28,9 @@ Install-package RabbitMQ.Client
 
 
 Sources
+
 http://www.borakasmer.com/rabbitmq-nedir/
+
 https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
+
 https://www.rabbitmq.com/documentation.html
