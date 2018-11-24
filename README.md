@@ -2,6 +2,7 @@
 Net Core 2.1 and RabbitMq simple producer and consumer 
 
 Install Erlang => http://www.erlang.org/downloads
+
 Install RabbitMQ => http://www.rabbitmq.com/install-windows.html
 
 Command Line
