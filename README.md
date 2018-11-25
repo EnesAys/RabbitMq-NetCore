@@ -29,6 +29,8 @@ Install-package RabbitMQ.Client
 
 Sources
 
+http://enesaysan.com/software/rabbitmq-netcore/
+
 http://www.borakasmer.com/rabbitmq-nedir/
 
 https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
